@@ -1,6 +1,50 @@
 {
   "videos": [
     {
+      "id": 8,
+      "title": "Why you SHOULD be using TypeScript with React",
+      "description": "In this video I go over 3 reasons why you should be typescript when creating a react application..",
+      "author": "Pedro tech",
+      "logo": "https://yt3.ggpht.com/tLOaVyDRQq46qga99PFlP9b3PRcni8gBJepNOecsgIdADpxU10p6w0VD-fZ8VvtqeldN6IHYOj0=s48-c-k-c0x00ffffff-no-rj",
+      "date": "February 2, 2022",
+      "duration": "8:15",
+      "views": "16.1k",
+      "link": "https://www.youtube.com/watch?v=3rKyewl7wzo",
+      "thumbnail": "https://i.ytimg.com/an_webp/3rKyewl7wzo/mqdefault_6s.webp?du=3000&sqp=CLibmZoG&rs=AOn4CLCiX2u-fjJ1obnyshcfhRyphHSbTg",
+      "like" : 0,
+      "dislike": 0,
+      "tags": ["react", "typescript"]
+    },
+    {
+      "id": 9,
+      "title": "NEXT.JS Crash Course for Beginners - Build 6 Apps in 17 Hours (SSR, Auth, Full-Stack + More) [2022]",
+      "description": "DISCLAIMER: This Video is made for informational and educational purposes only. We do not own or affiliate with Medium, Facebook, Instagram, WhatsApp, Hulu or their subsidiaries in any form. Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” of this video for education purposes.",
+      "author": "Sonny Sangha ",
+      "logo": "https://yt3.ggpht.com/FjeN785fVWx0Pr6xCbwPhhq8hHj_gocc3FygDXYDEQgp2gE_FQzRNsFHFAjQ3oE-VJaeGR1a=s88-c-k-c0x00ffffff-no-rj",
+      "date": "23 Feb 2022",
+      "duration": "17:31:34",
+      "views": "199,385k",
+      "link": "https://www.youtube.com/watch?v=6fNy0iD3hsk&t=55s",
+      "thumbnail": "https://i.ytimg.com/an_webp/6fNy0iD3hsk/mqdefault_6s.webp?du=3000&sqp=CJrfmJoG&rs=AOn4CLA6qS90QaFqrf0A4hrIETnRUwKf3g",
+      "like" : 0,
+      "dislike": 0,
+      "tags": ["react", "next js"]
+    },
+    {
+      "id": 16,
+      "title": "Algorithms and Data Structures Tutorial - Full Course for Beginners",
+      "description": "In this course you will learn about algorithms and data structures, two of the fundamental topics in computer science. There are three main parts to this course: algorithms, data structures, and a deep dive into sorting and searching algorithms.By the end, you will understand what algorithms and data structures are, how they are measured and evaluated, and how they are used to solve problems.This course was developed by Pasan Premaratne and Jay McGavren. It was made possible by a grant from teamtreehouse.com",
+      "author": "FreecodeCamp",
+      "logo": "https://yt3.ggpht.com/ytc/AMLnZu9UWrGceKWaqm8AF89vuxrEt8MO3E59qOoQ785Lew=s48-c-k-c0x00ffffff-no-rj",
+      "duration": "5:22:08",
+      "views": "2,630,581k",
+      "link": "https://www.youtube.com/watch?v=8hly31xKli0&t=8317s",
+      "thumbnail": "https://i.ytimg.com/vi/8hly31xKli0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFN0qRKwmeW1zC9ChzC-7CL7-ZaA",
+      "like" : 0,
+      "dislike": 0,
+      "tags": ["data structure", "algorithm"]
+    },
+    {
       "id": 1,
       "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
       "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
@@ -30,6 +74,67 @@
       "dislike" : 0,
       "tags": ["vscode", "tips"]
     },
+   
+    {
+      "id": 12,
+      "title": "Build Twitch with Next JS and Tailwind CSS",
+      "description": "Build Twitch with Next JS and Tailwind CSS  *Bonus NextAuth.js Join me as I recreate Twitch in Next.JS styled with Tailwind CSS and as a bonus we will even add NextAuth.js for authentication using Github & Google!  Learn the Next.JS basics of next.js routing and the Image component as we take advantage of lazy loading images! We will be creating everything from scratch and even using some mock data from https://mockaroo.com and utilizing Headless UI! ",
+      "author": "Code Commerce",
+      "logo": "https://yt3.ggpht.com/oKF3VNp9FqADpdGCClOjrtKtkK_wqsUIadE_kS_HqQy6glNvu_cVcEKY2W2Q3k3Pe19Zf1YUvv8=s48-c-k-c0x00ffffff-no-rj",
+      "date": "16 Jun 2022",
+      "duration": "2:20:34",
+      "views": "7,979k",
+      "link": "https://www.youtube.com/watch?v=W3HulvsuqGI",
+      "thumbnail": "https://i.ytimg.com/an_webp/W3HulvsuqGI/mqdefault_6s.webp?du=3000&sqp=CLKKmZoG&rs=AOn4CLBSVOxogt4xlWIhT2b_7mHnirm3lg",
+      "like" : 0,
+      "dislike" : 0,
+      "tags": ["next js", "react js", "tailwind"]
+    },
+    {
+      "id": 4,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "author": "Clever programmer",
+      "logo": "https://yt3.ggpht.com/ytc/AMLnZu_GS4vuibuZjr4ZBgVr97RrriUQrrhqeyWQWqMYfQ=s900-c-k-c0x00ffffff-no-rj",
+      "date": "Jan 06, 2022",
+      "duration": "16:25",
+      "views": "5.3k",
+      "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+      "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+      "like" : 0,
+      "dislike" : 0,
+      "tags": ["debounce", "javascript", "tips"]
+    },
+    {
+      "id": 10,
+      "title": "Modern GraphQL Crash Course - 2022",
+      "description": "This is a snippet of a full modern GraphQL course on Udemy. I hope you all enjoy and learn a ton!",
+      "author": "Laith Academy",
+      "logo": "https://yt3.ggpht.com/t_TrBp9Vyn2nhEJh5uz6Z9f8JbxVA_KZvkJSLiJadQRCmFF_wkHmnTL1y8dCqP7VWU4lLLmBmw=s48-c-k-c0x00ffffff-no-rj",
+      "date": "26 Oct 2021",
+      "duration": "3:30:20",
+      "views": "77,798k",
+      "link": "https://www.youtube.com/watch?v=qux4-yWeZvo&t=1s",
+      "thumbnail": "https://i.ytimg.com/vi/qux4-yWeZvo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2nJ--CqEYaBFzhB4kJ-PlxlnFIQ",
+      "like" : 0,
+      "dislike" : 0,
+      "tags": ["graphql"]
+    },
+    {
+      "id": 11,
+      "title": "গল্পে গল্পে ক্লোজার | JavaScript Closure Easy Explanation",
+      "description": "আপনাদের সাহায্য এবং সহযোগিতা ছাড়া আমরা কোন ভাবেই এগিয়ে যেতে পারব না। তাই ভিডিওটি যদি ভাল লেগে থাকে, লাইক, কমেন্ট এবং শেয়ার করবেন। চ্যানেলে নতুন হয়ে থাকলে অবশ্যই সাবস্ক্রাইব করবেন এবং বেল আইকনে ক্লিক করতে ভুলবেন না। আর আমাদের সাথে থেকে সাপোর্ট করার জন্য আপনাকে অসংখ্য ধন্যবাদ। ",
+      "author": "Stack learner",
+      "logo": "https://yt3.ggpht.com/_laaRTCwOZ6hxLgPmjN8HnzzIlhWqyiwbD2kuofkSLx51FImoP0esGJVxyZm7oZ46Yby9MVz7g=s48-c-k-c0x00ffffff-no-rj",
+      "date": "25 Nov 2021",
+      "duration": "5:26",
+      "views": "11,763k",
+      "link": "https://www.youtube.com/watch?v=zSlSfqQTeFE&t=27s",
+      "thumbnail": "https://i.ytimg.com/an_webp/zSlSfqQTeFE/mqdefault_6s.webp?du=3000&sqp=CPGWmZoG&rs=AOn4CLDUtDOCSV2pJmGfczwIDwFg-G0UMg",
+      "like" : 0,
+      "dislike" : 0,
+      "tags": ["javascript", "tips"]
+    },
     {
       "id": 3,
       "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
@@ -46,19 +151,34 @@
       "tags": ["tailwind", "css"]
     },
     {
-      "id": 4,
-      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
-      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
-      "author": "Clever programmer",
-      "logo": "https://yt3.ggpht.com/ytc/AMLnZu_GS4vuibuZjr4ZBgVr97RrriUQrrhqeyWQWqMYfQ=s900-c-k-c0x00ffffff-no-rj",
-      "date": "Jan 06, 2022",
-      "duration": "16:25",
-      "views": "5.3k",
-      "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
-      "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+      "id": 13,
+      "title": "Stop Trying To Memorize Code - Do This Instead",
+      "description": "If you are trying to memorize code then you are doing it wrong. Instead you need to focus on learning concepts. Programming is too vast to memorize every function and variable, but you can memorize all the important concepts of programming. Once you do that learning specific functions becomes trivial and learning new programming concepts also becomes much easier. In this video I lay out how you can use this way of learning to improve your programming skills.",
+      "author": "Web Dev Simplified",
+      "logo": "https://yt3.ggpht.com/ytc/AMLnZu-PjRc81p0qP-ZPWxv8aY4k-4gFRzGEYs3HWbIQ=s48-c-k-c0x00ffffff-no-rj",
+      "date": "26 Jun 2021",
+      "duration": "5:51",
+      "views": "422,227k",
+      "link": "https://www.youtube.com/watch?v=vP2MNhC_Igw",
+      "thumbnail": "https://i.ytimg.com/vi/vP2MNhC_Igw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI7hF1Im0F8gyJAdxP6tP0nQ6XSg",
       "like" : 0,
       "dislike" : 0,
-      "tags": ["debounce", "javascript", "tips"]
+      "tags": ["tips", "advice"]
+    },
+    {
+      "id": 14,
+      "title": "FASTEST Way to Learn Coding and ACTUALLY Get a Job",
+      "description": "Today, I'll share how to learn programming fast and get your first full-time Software Engineer job - step by step. As a self taught programmer, if you want to learn coding to get a job at FAANG, this video is for you. This video covers following: 1. How to learn to code fast? 2.  How to get a Software Engineer job? 3. How to prepare for Coding interviews?",
+      "author": "Power Couple",
+      "logo": "https://yt3.ggpht.com/h_5EX_GD2dB4Ti3cQbQ1BjGkm_M-EN_z_mWSw7KG-kYzswbULF5bTogzGRm-KcawIqiXgcnJiOM=s48-c-k-c0x00ffffff-no-rj",
+      "date": "19 Mar 2022",
+      "duration": "8:50",
+      "views": "4,112,693k",
+      "link": "https://www.youtube.com/watch?v=79pKwdiqcwI",
+      "thumbnail": "https://i.ytimg.com/an_webp/79pKwdiqcwI/mqdefault_6s.webp?du=3000&sqp=CPCYmZoG&rs=AOn4CLDrDh9cLafvHPVL_30iXbTiQvrUng",
+      "like" : 0,
+      "dislike" : 0,
+      "tags": ["advice", "tips"]
     },
     {
       "id": 5,
@@ -104,6 +224,21 @@
       "like" : 0,
       "dislike": 0,
       "tags": ["tailwind", "css", "ui"]
+    },
+    {
+      "id": 15,
+      "title": "Data Structures and Algorithms for Beginners",
+      "description": "Data Structures and algorithms for beginners. Ace your coding interview. Watch this tutorial to learn all about Big O, arrays and linked lists!",
+      "author": "Programming with mosh",
+      "logo": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s48-c-k-c0x00ffffff-no-rj",
+      "date": "10 Dec 2019",
+      "duration": "1:18:42",
+      "views": "1,146,554k",
+      "link": "https://www.youtube.com/watch?v=BBpAmxU_NQo",
+      "thumbnail": "https://i.ytimg.com/vi/BBpAmxU_NQo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlq5jN2Yg6kN-Tc8MghwAqW9W_LA",
+      "like" : 0,
+      "dislike": 0,
+      "tags": ["data structure", "algorithm"]
     }
   ],
 
@@ -111,6 +246,30 @@
     {
         "id": 1,
         "title": "javascript"
+    },
+    {
+        "id": 11,
+        "title": "data structures"
+    },
+    {
+        "id": 12,
+        "title": "algorithms"
+    },
+    {
+        "id": 13,
+        "title": "advice"
+    },
+    {
+        "id": 14,
+        "title": "next js"
+    },
+    {
+        "id": 15,
+        "title": "graphql"
+    },
+    {
+        "id": 16,
+        "title": "typescript"
     },
     {
         "id": 2,

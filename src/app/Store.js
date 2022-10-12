@@ -5,6 +5,7 @@ import searchAndFilterReducer  from "../features/searchAndFilter/searchAndFilter
 
 export const store = configureStore({
     reducer: {
+        [apiSlice.reducerPath]: apiSlice.reducer,
         searchAndFilter: searchAndFilterReducer,
     },
     devTools: process.env.NODE_ENV !== 'production',
