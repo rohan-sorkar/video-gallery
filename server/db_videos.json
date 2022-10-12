@@ -10,7 +10,7 @@
       "duration": "8:15",
       "views": "16.1k",
       "link": "https://www.youtube.com/watch?v=3rKyewl7wzo",
-      "thumbnail": "https://i.ytimg.com/an_webp/3rKyewl7wzo/mqdefault_6s.webp?du=3000&sqp=CLibmZoG&rs=AOn4CLCiX2u-fjJ1obnyshcfhRyphHSbTg",
+      "thumbnail": "https://i.ytimg.com/vi/3rKyewl7wzo/maxresdefault.jpg",
       "like" : 0,
       "dislike": 0,
       "tags": ["react", "typescript"]
@@ -25,7 +25,7 @@
       "duration": "17:31:34",
       "views": "199,385k",
       "link": "https://www.youtube.com/watch?v=6fNy0iD3hsk&t=55s",
-      "thumbnail": "https://i.ytimg.com/an_webp/6fNy0iD3hsk/mqdefault_6s.webp?du=3000&sqp=CJrfmJoG&rs=AOn4CLA6qS90QaFqrf0A4hrIETnRUwKf3g",
+      "thumbnail": "https://i.ytimg.com/vi/6fNy0iD3hsk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbYfUrUdo4f_A3QPPmxAlyODCwKQ",
       "like" : 0,
       "dislike": 0,
       "tags": ["react", "next js"]
@@ -133,7 +133,7 @@
       "thumbnail": "https://i.ytimg.com/an_webp/zSlSfqQTeFE/mqdefault_6s.webp?du=3000&sqp=CPGWmZoG&rs=AOn4CLDUtDOCSV2pJmGfczwIDwFg-G0UMg",
       "like" : 0,
       "dislike" : 0,
-      "tags": ["javascript", "tips"]
+      "tags": ["javascript"]
     },
     {
       "id": 3,

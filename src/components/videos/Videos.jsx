@@ -1,11 +1,12 @@
-import React from 'react'
 import { useGetVideosQuery } from '../../features/videos/videosApi'
 import Video from './Video'
 import VideoLoader from '../ui/loaders/VideoLoader';
 import Error from '../ui/Error'
+import {useSelector} from 'react-redux';
 
 const Videos = () => {
-  const {data: videos, isLoading, isError} = useGetVideosQuery();
+  const {tags, searchTerm} = useSelector(state => state.searchAndFilter)
+  const {data: videos, isLoading, isError} = useGetVideosQuery({tags, searchTerm});
 
   //decide what to render
   let content;
